@@ -10,8 +10,7 @@ A few resources to get you started if this is your first Flutter project:
 - [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
 ## Print
-
-
+![IMC](https://github.com/JulioCoronetti/calculadoraIMC/assets/133894436/18dbe5f4-967b-4fdf-b0d5-fa8adb40ab31)
 
 ## Sobre
 
